@@ -9,7 +9,9 @@ The libraries used were:
 * Beauriful Soup 4 -For html parsing
 * Pandas - Displaying data in table form and covert it to csv. 
 
-WebScrap
+WebScrap Folder consists of:
+* WebScraping.py - The python code for obtaning weather forecasting data
+* Weather_Today.csv - The excel file with data from WebScraping.py
 
 
 
